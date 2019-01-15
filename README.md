@@ -27,7 +27,7 @@ The instructions are provided for each challenge in the respective folder and on
 
 Solve all the problems. First one to solve them all wins!
 
-Alternatively, we will see who has the most points one week after posting, and declare them the Winner, first person to solve them all after that will be colloquially and unironically referred to as **Champ**.
+Alternatively, we will see who has the most points one week after posting (so by Feb. 1st, 2019), and declare them the Winner, first person to solve them all after that will be colloquially and unironically referred to as **Champ**.
 
 # FAQs
 
