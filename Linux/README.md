@@ -24,5 +24,5 @@ TarFileTarFileTarFileTarFileTarFileTarFileTarFileTarFile
 Assemble Voltron! 
 
 **VALUE: 4 points||**
-**FLAG: the password**
+**FLAG FORMAT: flag{flag_g03s_h3r3}**
 
