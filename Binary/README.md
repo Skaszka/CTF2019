@@ -12,9 +12,7 @@ There's a flag somewhere in there. How do you see the stack?
 
 We take what you give us, and we evaluate it with printf().
 
----------------
 **PLOT TWIST!**
----------------
 
 The flag is already in there, and we try to print it using printf with the format string you give us and that format string IS THE REAL FLAG.
 
@@ -24,16 +22,18 @@ The flag is already in there, and we try to print it using printf with the forma
 
 
 ### BINARY3: Buffer? I hardly know'er!
-So here's a binary. It has a non-executable stack (womp womp) but no stack protections. But there is a function that spawns a shell. How do you get to that vulnerable function?
+So here's a binary. It has a non-executable stack (womp womp) but no stack protections. But there is a function that prints the flag. How do you get to that vulnerable function?
 
 **VALUE: 3 points||**
-**FLAG FORMAT: shellcode/exploit/address/etc. you used and a screenshot of your shell**
+**FLAG FORMAT: shellcode/exploit/address/etc. you used and a screenshot of printing the flag**
 
 ### BINARY4: Mario Style
 Step 1. Turn aslr off.  
+
 '''
 echo 0 | sudo tee /proc/sys/kernel/randomize_va_space
 '''
+
 Step 2. Compiled with executable stack and no stack protections. 
 Step 3. Smash.
 Step 4. Spawn shell.
