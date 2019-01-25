@@ -35,9 +35,13 @@ echo 0 | sudo tee /proc/sys/kernel/randomize_va_space
 '''
 
 Step 2. Compiled with executable stack and no stack protections. 
+
 Step 3. Smash.
+
 Step 4. Spawn shell.
+
 Step 5. ???
+
 Step 6. Profit. 
 
 **VALUE: 4 points||**
