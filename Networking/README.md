@@ -9,7 +9,7 @@ THE TWIST!
 
 You have to use the command line. And you can't write your own client/get one from the internet/stack overflow. 
 
-The flag is what command did you use to 
+The flag is the command you used to send/receive the flag.
 
 **VALUE: 1 point||**
 **FLAG: the command you used**
@@ -27,11 +27,11 @@ Here's a server. Write a client for it. And yes, I will test it to see if it can
 **VALUE: 3 points||**
 **FLAG FORMAT: CODE!**
 
-### NETWORKING4: 
+### NETWORKING4: Look at this Photograph  
 Similar to Networking 2. BUT BETTER.
 
 **VALUE: 4 points||**
-**FLAG: it's in there!**
+**FLAG: give us the name of the artist at the bottom**
 
 
 
