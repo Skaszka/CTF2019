@@ -15,11 +15,11 @@ http://www.nuclearfarmboy.com/ctf2019
 
 ## The Challenges:
 
-There are 3 categories. 
+There are 4 categories. 
 
 **Reverse Engineering || Linux || Binary Exploit**
 
-Each category will have 4 challenges ranging from super easy (worth 1 point) to more challenging (worth 4 points)
+Each category will have 3-5 challenges ranging from super easy (worth 1 point) to more challenging (worth 5 points)
 
 The instructions are provided for each challenge in the respective folder and on the website http://nuclearfarmboy.com/ctf2019
 

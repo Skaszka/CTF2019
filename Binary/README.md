@@ -6,7 +6,7 @@ These challenges focus on you figuring out how stuff works. They go from easy to
 There's a flag somewhere in there. How do you see the stack?
 
 **VALUE: 1 point||**
-**FLAG: flag{flag}**
+**FLAG: flag[flag]**
 
 ### BINARY2: FoRmAt StRiNgS
 We take what you give us, and we evaluate it with printf().
