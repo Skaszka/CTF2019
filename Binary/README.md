@@ -9,10 +9,13 @@ There's a flag somewhere in there. How do you see the stack?
 **FLAG: flag[flag]**
 
 ### BINARY2: FoRmAt StRiNgS
+
 We take what you give us, and we evaluate it with printf().
+
 ---------------
 **PLOT TWIST!**
 ---------------
+
 The flag is already in there, and we try to print it using printf with the format string you give us and that format string IS THE REAL FLAG.
 
 
